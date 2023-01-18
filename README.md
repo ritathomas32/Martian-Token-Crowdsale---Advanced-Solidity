@@ -19,12 +19,15 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 
 This project utilizes Solidity 0.5.0:
 - Remix - This website acts as a workspace where you can write, compile, deploy, and interact with your solidity code.
+- MetaMask - MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain. It allows users to access their Ethereum wallet through a browser extension or mobile app, which can then be used to interact with decentralized applications.
 
 # Usage
 
 All screenshots are contained in the screenshots folder
 
 ![image](https://user-images.githubusercontent.com/108632632/213097811-0af301b6-907b-4ae3-8196-f058b04c768b.png)
+
+![Screenshot 2023-01-18 at 6 00 22 pm](https://user-images.githubusercontent.com/108632632/213105451-9822e7c8-13ef-44a8-a723-39efcb8b22d6.png)
 
 
 # Contributor
