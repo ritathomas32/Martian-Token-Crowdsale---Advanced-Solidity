@@ -24,6 +24,9 @@ This project utilizes Solidity 0.5.0:
 
 All screenshots are contained in the screenshots folder
 
+![image](https://user-images.githubusercontent.com/108632632/213097811-0af301b6-907b-4ae3-8196-f058b04c768b.png)
+
+
 # Contributor
 
 Rita Thomas
