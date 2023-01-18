@@ -22,7 +22,7 @@ This project utilizes Solidity 0.5.0:
 
 # Usage
 
-All screenshots are contained in the Images folder
+All screenshots are contained in the screenshots folder
 
 # Contributor
 
