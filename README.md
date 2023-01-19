@@ -21,7 +21,7 @@ This project utilizes Solidity 0.5.0:
 - Remix - This website acts as a workspace where you can write, compile, deploy, and interact with your solidity code.
 - MetaMask - MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain. It allows users to access their Ethereum wallet through a browser extension or mobile app, which can then be used to interact with decentralized applications.
 
-# Usage
+# Evaluation Evidence
 
 All screenshots are contained in the screenshots folder
 
