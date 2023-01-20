@@ -25,9 +25,26 @@ This project utilizes Solidity 0.5.0:
 
 All screenshots are contained in the screenshots folder
 
+Compiling the KaseiCoin Contract
+
 ![image](https://user-images.githubusercontent.com/108632632/213097811-0af301b6-907b-4ae3-8196-f058b04c768b.png)
 
+Compiling the KaseiCoinCrowdsale Contract
+
 ![Screenshot 2023-01-18 at 6 00 22 pm](https://user-images.githubusercontent.com/108632632/213105451-9822e7c8-13ef-44a8-a723-39efcb8b22d6.png)
+
+Deployed Contracts and Test
+
+![Screenshot 2023-01-19 at 6 24 52 pm](https://user-images.githubusercontent.com/108632632/213590485-c7d650b6-4777-4db9-80fd-ae3435b003f8.png)
+
+
+![Screenshot 2023-01-20 at 10 44 14 am](https://user-images.githubusercontent.com/108632632/213590670-42a9412f-0a02-4c12-8b82-03d4928d1c4d.png)
+
+![Screenshot 2023-01-20 at 10 45 40 am](https://user-images.githubusercontent.com/108632632/213590696-2633a293-32c7-4d65-9b2d-a260bfaedcb2.png)
+
+![Screenshot 2023-01-20 at 10 46 25 am](https://user-images.githubusercontent.com/108632632/213590721-6dd79d6b-e892-4f3a-a843-475423f40696.png)
+
+![Screenshot 2023-01-20 at 10 47 05 am](https://user-images.githubusercontent.com/108632632/213590751-2d624dae-d74f-48b1-b555-48537b6f1983.png)
 
 
 # Contributor
